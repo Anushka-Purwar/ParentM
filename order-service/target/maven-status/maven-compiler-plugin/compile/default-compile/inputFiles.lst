@@ -1,0 +1,11 @@
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/model/OrderLineItems.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/service/OrderService.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/OrderServiceApplication.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/event/OrderPlacedEvent.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/model/Order.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/controller/OrderController.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/config/WebClientConfig.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/dto/OrderLineItemsDTO.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/repository/OrderRepository.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/dto/InventoryResponse.java
+/Users/mansi/Documents/Microservices_Parent/order-service/src/main/java/com/anushka/orderservice/dto/OrderRequest.java

@@ -1,0 +1,7 @@
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/model/Product.java
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/ProductServiceApplication.java
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/controller/ProductController.java
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/dto/ProductResponse.java
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/dto/ProductRequest.java
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/service/ProductService.java
+/Users/mansi/Documents/Microservices_Parent/product-service/src/main/java/com/anushka/productService/repository/ProductRepository.java

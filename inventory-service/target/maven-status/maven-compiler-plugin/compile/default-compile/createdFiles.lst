@@ -1,0 +1,7 @@
+com/anushka/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/anushka/inventoryservice/InventoryServiceApplication.class
+com/anushka/inventoryservice/model/Inventory.class
+com/anushka/inventoryservice/controller/InventoryController.class
+com/anushka/inventoryservice/service/InventoryService.class
+com/anushka/inventoryservice/repository/InventoryRepository.class
+com/anushka/inventoryservice/dto/InventoryResponse.class

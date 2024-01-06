@@ -1,0 +1,10 @@
+com/anushka/productService/repository/ProductRepository.class
+com/anushka/productService/service/ProductService.class
+com/anushka/productService/dto/ProductRequest.class
+com/anushka/productService/ProductServiceApplication.class
+com/anushka/productService/controller/ProductController.class
+com/anushka/productService/dto/ProductResponse$ProductResponseBuilder.class
+com/anushka/productService/dto/ProductResponse.class
+com/anushka/productService/dto/ProductRequest$ProductRequestBuilder.class
+com/anushka/productService/model/Product.class
+com/anushka/productService/model/Product$ProductBuilder.class
